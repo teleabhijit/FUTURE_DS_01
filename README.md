@@ -79,5 +79,5 @@ This project is submitted as Task 1 under the Future Interns – Data Science & 
 
 👤 Abhijit Tele
 📍 Data Science & Analytics Intern @ Future Interns
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn - https://www.linkedin.com/in/abhijit-tele 
+ | GitHub - https://github.com/teleabhijit
